@@ -2,4 +2,9 @@ first line
 second line
 third line
 fourth line
+<<<<<<< HEAD
 fifth line
+=======
+
+sixth line
+>>>>>>> dev
